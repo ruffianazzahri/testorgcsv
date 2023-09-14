@@ -1,0 +1,11 @@
+pid,name,position,img_path,isCollapse,id,nationality,jobcode
+0,joni ,director,../images/fakeorg/joni.jpg,FALSE,1,indonesia,
+1,jono,manager,../images/fakeorg/joni.jpg,FALSE,2,indonesia,
+1,jana,manager,../images/fakeorg/joni.jpgLL,FALSE,3,indonesia,
+1,jani,manager,../images/fakeorg/joni.jpg,FALSE,4,indonesia,
+2,juni,crew,../images/fakeorg/joni.jpg,FALSE,5,indonesia,
+2,jini,crew,../images/fakeorg/joni.jpg,FALSE,6,indonesia,
+3,juna,staff,../images/fakeorg/joni.jpg,FALSE,7,indonesia,
+3,janu,staff,../images/fakeorg/joni.jpg,FALSE,8,indonesia,
+3,jane,staff,../images/fakeorg/joni.jpg,FALSE,9,indonesia,
+3,jina,staff,../images/fakeorg/joni.jpg,FALSE,10,indonesia,
